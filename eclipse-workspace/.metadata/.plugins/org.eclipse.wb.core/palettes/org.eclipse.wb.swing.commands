@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addCategory
+		id="custom_1638066429773"
+		name="KGradientPanel"
+		description=""
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="keeptoo.KGradientPanel_1638066573628"
+		name="KGradientPanel"
+		description="Custom component: keeptoo.KGradientPanel"
+		visible="true"
+		class="keeptoo.KGradientPanel"
+		category="custom_1638066429773"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.JGoodies"
+		visible="false"/>
+	<visibleElement
+		id="custom_1638066429773"
+		visible="true"/>
+	<removeCategory
+		id="custom_1638066429773"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.system"
+		visible="true"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.containers"
+		visible="true"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.layouts"
+		visible="true"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.BoxLayout"
+		visible="true"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.components"
+		visible="true"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.actions"
+		visible="true"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.components.menu"
+		visible="true"/>
+	<visibleElement
+		id="org.eclipse.wb.swing.components.awt"
+		visible="true"/>
+	<addComponent
+		id="keeptoo.KGradientPanel_1638066853281"
+		name="KGradientPanel"
+		description="Custom component: keeptoo.KGradientPanel"
+		visible="true"
+		class="keeptoo.KGradientPanel"
+		category="org.eclipse.wb.swing.containers"/>
+	<addComponent
+		id="keeptoo.KGradientPanel_1638226149002"
+		name="KGradientPanel"
+		description="Custom component: keeptoo.KGradientPanel"
+		visible="true"
+		class="keeptoo.KGradientPanel"
+		category="org.eclipse.wb.swing.containers"/>
+</commands>

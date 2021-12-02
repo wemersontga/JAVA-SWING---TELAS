@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.model.property.editor.string.StringPropertyDialog">
+		<item key="x" value="695"/>
+		<item key="y" value="347"/>
+		<item key="width" value="530"/>
+		<item key="height" value="346"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ComponentAddDialog">
+		<item key="x" value="589"/>
+		<item key="y" value="355"/>
+		<item key="width" value="627"/>
+		<item key="height" value="380"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.PaletteManagerDialog">
+		<item key="x" value="680"/>
+		<item key="y" value="418"/>
+		<item key="width" value="525"/>
+		<item key="height" value="516"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.CategoryAddDialog">
+		<item key="x" value="697"/>
+		<item key="y" value="320"/>
+		<item key="width" value="525"/>
+		<item key="height" value="399"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item key="x" value="697"/>
+		<item key="y" value="299"/>
+		<item key="width" value="562"/>
+		<item key="height" value="442"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="C:\Users\virtual_pc\Desktop\KGradientPanel-master\dist\KGradientPanel.jar"/>
+		</list>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.CategoryEditDialog">
+		<item key="x" value="697"/>
+		<item key="y" value="334"/>
+		<item key="width" value="525"/>
+		<item key="height" value="371"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.PalettePreferencesDialog">
+		<item key="x" value="693"/>
+		<item key="y" value="345"/>
+		<item key="width" value="533"/>
+		<item key="height" value="349"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.model.util.ExposePropertySupport$ExposePropertyAction$ExposeDialog">
+		<item key="x" value="697"/>
+		<item key="y" value="308"/>
+		<item key="width" value="525"/>
+		<item key="height" value="423"/>
+	</section>
+</section>
